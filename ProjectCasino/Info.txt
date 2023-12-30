@@ -1,0 +1,55 @@
+/*
+* class casino +
+* class maquina +
+** hierarquia [Classic Slots;
+               Slots temáticos; 
+               Jogos de caça-níqueis;
+               Blackjack;
+               Roleta;
+               Craps;
+               Bacará;
+              Variantes de Poker;]
+*O Casino tem uma hora de abertura e hora de encerramento
+*Quando existe algum alerta/aviso (da parte das máquinas) o gestor do Casino deve ser logo informado, para desse modo atuar!
+*Cada Máquina de jogo está numa dada posição (X, Y) do Casino + (falta fazer no casino)
+*Se uma dada máquina está com uma percentagem muito grande de “dar” prémios, deve ser enviado um alerta ao Gestor do Casino, para este alterar as configurações. 
+*As máquinas devem ter um sensor de temperatura, pois podem começar a aquecer!, no caso de aquecimento deve ser alertado o Gestor do Casino.+ (falta o gestor)
+*Todas as Máquinas têm uma probabilidade de avaria!+
+*Qualquer alteração do estado de uma máquina deve ser comunicado ao Gestor do Casino.
+*Construtor do Casino, sendo dado o nome do casino +
+*As configurações do Casino dadas em ficheiro XML, com todas as informações
+*Adicionar Utilizadores/Jogadores
+*Adicionar Máquina
+*Listar o estado atual do Casino
+*Desligar uma dada máquina, dado o seu ID
+*Saber o estado de uma dada Máquina, dado o seu ID
+*Calcular a memória total ocupada pela estrutura de dados
+*Listar e devolver todas as máquinas de um dado Tipo
+*Quais as Maquinas que mais avariam, deve devolver uma lista (ordenada) da que mais avaria para a mais fiável;
+*Quais máquinas mais usadas (que mais trabalham), deve devolver uma lista (ordenada)
+*Quais os jogadores que mais TEMPO passaram no casino a jogar, deve devolver uma lista (ordenada)
+*Quais os jogadores que mais PRÉMIOS ganharam no casino, deve devolver uma lista (ordenada)
+*Enviar um relatório em XML, do estado do Casino; O relatório deverá ter a informação do estado atual de cada máquina nesse dia
+
+*Quando uma máquina tem um prémio, devem ser aumentada a probabilidade de ganho das outras máquinas 
+que  estão  em  redor  dela,  à  distância  máxima  de  R.  O  método  deve  devolver  (por  parâmetro)  a  lista  das 
+máquinas onde foi feita a alteração da probabilidade de ganhar;
+
+* Listar  todas  as  máquinas  onde  a  probabilidade  de  ganhar  é  superior  a  X.  Esta  lista  pode  ser  mostrada  no 
+monitor ou escrita em ficheiro;
+
+*O  Casino  tem  um  método  Run,  que  coloca  todo  o  processo  em  funcionamento!  O  Simulador  deve  estar 
+sempre  a  correr  e  quando  se  pretende  introduzir  alterações,  deve-se  carregar  numa  tecla  ‘M’  de  modo  a 
+aparecer um menu (nesse instante o simulador deve estar parado, até a opção ser executada!)
+
+
+
+
+
+
+
+
+
+
+
+*/

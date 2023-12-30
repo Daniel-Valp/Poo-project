@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1700497387 source:c:\users\pc\desktop\projeto_casino\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<locale>
+	"Casino.h"
+	"Jogador.h"
+	"Maquina.h"
+
+1700481984 source:c:\users\pc\desktop\projeto_casino\src\jogador.cpp
+	"Jogador.h"
+
+1700484069 c:\users\pc\desktop\projeto_casino\include\jogador.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	"Maquina.h"
+
+1700482038 source:c:\users\pc\desktop\projeto_casino\src\maquina.cpp
+	"Maquina.h"
+	"Casino.h"
+
+1700586168 c:\users\pc\desktop\projeto_casino\include\maquina.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+
+1700588176 source:c:\users\pc\desktop\projeto_casino\src\casino.cpp
+	"Casino.h"
+
+1700588610 c:\users\pc\desktop\projeto_casino\include\casino.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<sstream>
+	"Jogador.h"
+	"Maquina.h"
+
+1702649765 source:c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<locale>
+	<conio.h>
+	<chrono>
+	<thread>
+	"Casino.h"
+	"Jogador.h"
+	"Maquina.h"
+
+1702896137 c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\include\casino.h
+	<ctime>
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<sstream>
+	<conio.h>
+	<chrono>
+	<thread>
+	<ctime>
+	"Jogador.h"
+	"Maquina.h"
+	"../xml/pugixml.hpp"
+
+1702643872 c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\include\jogador.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<ctime>
+
+1702601021 c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\include\maquina.h
+	<iostream>
+	<string>
+	<list>
+	<fstream>
+	<limits>
+	"Jogador.h"
+
+1702859456 source:c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\src\casino.cpp
+	"Casino.h"
+
+1702666057 source:c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\src\maquina.cpp
+	"Maquina.h"
+	"Casino.h"
+
+1702643963 source:c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\src\jogador.cpp
+	"Jogador.h"
+
+1701691660 source:c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\xml\pugixml.cpp
+	"pugixml.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<limits.h>
+	<wchar.h>
+	<math.h>
+	<float.h>
+	<istream>
+	<ostream>
+	<string>
+	<new>
+	<sys/stat.h>
+	<stdint.h>
+
+1701691660 c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\xml\pugixml.hpp
+	"pugiconfig.hpp"
+	<stddef.h>
+	<exception>
+	<iterator>
+	<iosfwd>
+	<string>
+
+1701691660 c:\users\pc\onedrive\documentos\github\projectcasino\projeto_casino\xml\pugiconfig.hpp
+
